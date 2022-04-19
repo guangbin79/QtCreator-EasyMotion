@@ -1,0 +1,11 @@
+{
+    \"Name\" : \"EasyMotion\",
+    \"Version\" : \"0.0.1\",
+    \"CompatVersion\" : \"0.0.1\",
+    \"Vendor\" : \"guangbin\",
+    \"Copyright\" : \"\",
+    \"License\" : \"\",
+    \"Description\" : \"\",
+    \"Url\" : \"\",
+    $$dependencyList
+}
